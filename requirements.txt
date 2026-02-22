@@ -1,5 +1,15 @@
+langchain
 langchain_openai
 langchain_core
 python-dotenv
 streamlit
 langchain_community
+langchain_text_splitters
+langchain_classic
+langserve
+uvicorn
+fastapi
+bs4
+pypdf
+chromadb
+faiss-cpu
